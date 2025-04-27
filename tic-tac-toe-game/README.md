@@ -7,14 +7,14 @@ This project is a simple implementation of a Tic Tac Toe game using Flask for th
 ```
 tic-tac-toe-game
 ├── server
-│   ├── server.py          # Flask server implementation
-│   ├── requirements.txt   # Server dependencies
-│   └── .env               # Environment variables for the server
+│   ├── server.py          
+│   ├── requirements.txt   
+│   └── .env               
 ├── client
-│   ├── client.py          # Client implementation
-│   ├── requirements.txt   # Client dependencies
-│   └── .env               # Environment variables for the client
-└── README.md              # Project documentation
+│   ├── client.py          
+│   ├── requirements.txt   
+│   └── .env               
+└── README.md
 ```
 
 ## Setup Instructions
